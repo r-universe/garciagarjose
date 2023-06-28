@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IntervalQuestionStat"]
 	path = IntervalQuestionStat
 	url = https://github.com/garciagarjose/intervalquestionstat
-	shallow = true
-	registered = true
